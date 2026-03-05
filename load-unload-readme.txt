@@ -1,0 +1,4 @@
+windbg
+view/command
+.load E:\PDB_MAKER_EXTENSION\PDB_MAKER_EXTENSION\x64\ReleasePDB_MAKER_EXTENSION.dll
+.unload PDB_MAKER_EXTENSION.dll
